@@ -1,0 +1,7 @@
+.zoom-icon svg {
+  transition: transform 0.3s ease;
+}
+
+.zoom-icon:hover svg {
+  transform: scale(1.3);
+}
