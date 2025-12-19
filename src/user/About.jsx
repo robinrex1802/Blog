@@ -74,7 +74,7 @@ function About() {
                 <div className="heading" data-aos="fade-up">
                     <h1>About As</h1>
                     <p>
-                        Identify your specific audience  like
+                        Identify your specific audience
                     </p>
                 </div>
                 <div className="container">
